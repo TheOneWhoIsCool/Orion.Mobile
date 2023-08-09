@@ -1,9 +1,9 @@
-# Orion Library
-This documentation is for the stable release of Orion Library.
+# Orion for Mobile
+This documentation is for the stable release of Orion for Mobile.
 
 ## Booting the Library
 ```lua
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/TheOneWhoIsCool/Orion.Mobile/main/Mobile%20Friendly%20Orion')))()
 ```
 
 
